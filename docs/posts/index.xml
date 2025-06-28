@@ -1,0 +1,12 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Harrison Korodi</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Harrison Korodi</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 28 Jun 2025 12:04:45 -0400</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+    </channel>
+</rss>

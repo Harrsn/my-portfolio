@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Harrison Korodi"
+theme = "hello-friend-ng"
+publishDir = "docs"  # if deploying to GitHub Pages
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  homeSubtitle = "Network Engineer & Cybersecurity Specialist"
+  description = "Portfolio site of Harrison Korodi"
+  defaultTheme = "dark"
+  
+publishDir = "docs"
+baseURL = "https://harrsn.github.io/my-portfolio/"
